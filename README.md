@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @vishi11
 - 👀 I’m interested in Development.  
-- 🌱 I’m currently learning JavaScript, Angular, React.
+- 🌱 I’m currently learning JavaScript, React, JAVA.
+
 
 
 <!---
